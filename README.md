@@ -7,7 +7,8 @@
 
 ![4](https://github.com/user-attachments/assets/b647931c-a9ef-46ef-aaa6-90069faced15)
 
-![4](https://github.com/user-attachments/assets/56cf6a35-d60b-4c0a-b47e-77b41eac2386)
+![5](https://github.com/user-attachments/assets/c27db4c4-84c9-4736-8416-0133ddc442c7)
+
 
 出来控制台后输入copy(Telegram.WebApp.initData)
 第一次会要你输 允许粘贴 四个字才能粘贴
