@@ -1,26 +1,15 @@
-# BLUM Bot
-BLUM Bot 
+使用方法
+![1](https://github.com/user-attachments/assets/6c6040f4-209c-4896-bfbb-05b2065b34ce)
 
-support my github channel 
+![2](https://github.com/user-attachments/assets/3ad9c477-a623-422b-b2a2-0c26f41181cc)
 
-Register Here : [BLUM Bot](https://t.me/BlumCryptoBot/app?startapp=ref_z2MpJGToqt)
+![3](https://github.com/user-attachments/assets/5a291653-3ed0-4055-91f5-d88c3995fff1)
 
-Join to My Telegram Group : [S4NSGroup](https://t.me/sansxgroup)
+![4](https://github.com/user-attachments/assets/b647931c-a9ef-46ef-aaa6-90069faced15)
 
+![4](https://github.com/user-attachments/assets/56cf6a35-d60b-4c0a-b47e-77b41eac2386)
 
-## Tutorial
-
-Install with python
-
-1. Download Python > install
-2. run in cmd pip install -r requirements.txt(if have requirements.txt)
-3. create file query_id.txt
-4. Open Bot BLUM in web & open inspect webview
-5. Open Application > Session Storage > copy all tgWebAppData ex: query=xxxxx/user=xxxxx
-
-
-## Features
-- Auto Claim Bot
-- Auto Clear Task
-- Auto Join Tribe
-
+出来控制台后输入copy(Telegram.WebApp.initData)
+第一次会要你输 允许粘贴 四个字才能粘贴
+输入之后会自动复制一段内容 把这段内容放进data.txt里
+运行fuckblum.bat即可
